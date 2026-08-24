@@ -1,1 +1,10 @@
 # CS-255
+The DriverPass project was based on designing a system for a company called DriverPass. The client wanted a web-based system that would help students prepare for their driving tests by offering online practice exams, scheduling driving lessons, and managing user accounts, instructors, and reservations. The goal was to create a system that made it easier for students to study and book driving lessons while giving administrators the tools to manage the business.
+
+One thing I think I did well was identifying the client's requirements and organizing them into a system design that met their needs. Creating the UML diagrams and documenting the system helped me better understand how the different parts of the application work together. I also focused on making the design easy to follow and keeping the documentation organized.
+
+If I could revise one part of my work, I would improve my UML class diagram by adding more detail to the relationships between classes and including additional methods and attributes where appropriate. This would make the design more complete and easier for developers to use during implementation.
+
+I interpreted the user's needs by carefully reviewing the client's requirements and making sure the system included the features they requested, such as online practice tests, lesson scheduling, secure login, and account management. Considering the user's needs is important because the system should be easy to use, reliable, and solve the problems the client is trying to address. A system that ignores user needs is less likely to be successful, even if it functions correctly.
+
+When designing software, I start by understanding the client's goals and gathering all of the system requirements before creating diagrams and planning the overall design. Breaking the project into smaller parts makes it easier to organize the system and identify how each component interacts with the others. In the future, I will continue using techniques such as gathering clear requirements, creating UML diagrams, and reviewing the design before implementation to help build systems that are well organized and meet user needs.
